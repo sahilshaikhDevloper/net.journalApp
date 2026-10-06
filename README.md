@@ -1,2 +1,1 @@
-# net.journalApp
-# net.journalApp
+ net.journalApp
